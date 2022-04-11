@@ -1,1 +1,1 @@
-# Electron + Vue 3 + Typescript + Vite + ESLint
+# Electron + Vue 3 + Typescript + Vite + ESLint + Prettier
